@@ -5,7 +5,7 @@ A Clone ChatGPT hosted on a AWS S3 Bucket
 
 New Edit:
 # This branch is the initial release branch and will have no further entries or edits/ 
-# Final_Release is the branch which will have the final intended GTP clone.
+# Final_Release is the branch which will have the final intended GPT clone.
 
 A new final release is being planned for the ChatGPTClone.
 The aim is to replace the project using GPT-3.5 Turbo from OpenAI to a Open-Source LLM from Hugging Face. 
